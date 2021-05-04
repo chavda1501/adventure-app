@@ -17,8 +17,12 @@ const Header = () => {
                             <NavLink className="nav-link" to="/">Home</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link" to="/">Link</NavLink>
+                            <NavLink className="nav-link" to="/">Service</NavLink>
                         </li>
+                        <li className="nav-item">
+                            <NavLink className="nav-link" to="/">Product</NavLink>
+                        </li>
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">SIGN UP</button>
                         </ul>
                     </div>
                 </nav>
